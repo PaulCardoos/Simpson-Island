@@ -1,0 +1,53 @@
+Script started on Thu 29 Oct 2020 01:03:00 AM EDT
+darkdeer@itserver6:~/cs410/hw2$ logout[Klogout./a.outg++ -std=c++11 *.cpp[13P./a.outg++ -std=c++11 *.cpp[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pg++[C[C[C[C[C[C[7@-std=c++11[C[C[C[C[C[C[4@g++ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+darkdeer@itserver6:~/cs410/hw2$ ./a.out
+Bob Blobfish (5 1): Don't trust the salmon!!!
+Walter Whale (6 2): Better take some paper towels if you visit the blobfish
+Sylvia Seahorse (4 2): Don't be so crabby!
+Sheila Shellfish (3 1): Duuude, totally love the clown head and human body combo!"
+Doris Dolphin (8 4): Hey man, got any sea-weed?
+Wanda Walrus (6 2): Don't be so crabby!
+Stanley Sardine (3 1): I'd gladly pay you Tuesday for a lobster roll today.
+Janie Jellyfish (10 1): Here's some advice:  the shark wants you to be his chum!
+Sammy Shark (8 4): Don't be so crabby!
+Sammy Shark (8 4): Looking for a card (shark)?
+Stanley Sardine (3 1): Are you someone famous?
+Bob Blobfish (5 1): Don't trust the salmon!!!
+Mark Herrings (9 5): Don't be so crabby!
+Oscar Tilapia (5 3): Looking for a card (shark)?
+Daniel Octopus (7 3): Here's some advice:  the shark wants you to be his chum!
+
+
+KRUSTY: I have stacked 6 business I'm so glad
+I do not have to visit another one of these wierdos!
+Here are the Creatures and there cards that I have stacked!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Stackable Creature Business Card's that Krusty Visited***
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bob Blobfish (5 1)
+Walter Whale (6 2)
+Sheila Shellfish (3 1)
+Doris Dolphin (8 4)
+Mark Herrings (9 5)
+Daniel Octopus (7 3)
+
+***********************************************************
+****Proof of Stackation for the Atlantis Visitor Bureau****
+***********************************************************
+(3 1)
+(5 1)
+(6 2)
+(7 3)
+(8 4)
+(9 5)
+-----------------CONGRATULATIONS KRUSTY--------------------
+-- Krusty, you have hereby earned your right to leave------
+-- Atlantis by satisfying condition 1 of the Atlantis------
+-- Visitors Bureau by stacking 6 business cards! You-------
+---are hereby free to leave! Thank you for visiting--------
+darkdeer@itserver6:~/cs410/hw2$ exit
+exit
+
+Script done on Thu 29 Oct 2020 01:03:38 AM EDT
